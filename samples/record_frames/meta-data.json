@@ -1,0 +1,29 @@
+{
+    "objects": [
+        {
+            "detection": {
+                "bounding_box": {
+                    "x_max": 0.09885172545909882,
+                    "x_min": 0.003643408417701721,
+                    "y_max": 0.35827890038490295,
+                    "y_min": 0.12642857432365417
+                },
+                "confidence": 0.7773288488388062,
+                "label": "vehicle",
+                "label_id": 2
+            },
+            "h": 100,
+            "roi_type": "vehicle",
+            "w": 73,
+            "x": 3,
+            "y": 55
+        }
+    ],
+    "resolution": {
+        "height": 432,
+        "width": 768
+    },
+    "source": "https://github.com/intel-iot-devkit/sample-videos/blob/master/person-bicycle-car-detection.mp4?raw=True",
+    "timestamp": 48916666666,
+    "frame_id": 587
+}
